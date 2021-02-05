@@ -73,7 +73,8 @@
      width: 80%;
      padding: 30px 50px;
      position: absolute;
-     left: 270px;
+     /* left: 270px; */
+     margin-left: 16.85rem;
 }
 .nav2{
      display: flex;
