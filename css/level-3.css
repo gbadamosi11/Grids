@@ -215,7 +215,7 @@
 .chart-container{
      width: 100%;
      background-color: #fff;
-     height: 408px;
+     height: 440px;
      margin-top: 69px;
 }
 .chart-heading{
@@ -242,7 +242,17 @@
      left: 124px;
 }
 #myChart{
-     width: 500px !important;
+     width: 600px !important;
      height: 300px !important;
      margin: 0 auto !important;
+}
+.year{
+     text-align: center;
+     margin: 25px 0;
+     font-family: 'Roboto', sans-serif;
+     font-weight: 500;
+     font-size: 14px;
+     line-height: 21px;
+     color: #333333;
+     text-transform: capitalize;
 }
