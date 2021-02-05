@@ -540,7 +540,7 @@
           background-color: #AFE2F8;
      }
 
-               TABLET
+               /* TABLET */
 @media only screen and (min-width: 768px){
      /* GRID2-1 */
      .grid2-1{
@@ -833,3 +833,5 @@
          grid-row: 4/7;
     }
 }
+
+/* GRID3-1 */
